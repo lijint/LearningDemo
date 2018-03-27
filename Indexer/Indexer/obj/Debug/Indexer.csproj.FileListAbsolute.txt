@@ -1,0 +1,5 @@
+C:\Users\lijint.LANDI\Desktop\logTemp\Indexer\Indexer\bin\Debug\Indexer.exe
+C:\Users\lijint.LANDI\Desktop\logTemp\Indexer\Indexer\bin\Debug\Indexer.pdb
+C:\Users\lijint.LANDI\Desktop\logTemp\Indexer\Indexer\obj\Debug\Indexer.csprojResolveAssemblyReference.cache
+C:\Users\lijint.LANDI\Desktop\logTemp\Indexer\Indexer\obj\Debug\Indexer.exe
+C:\Users\lijint.LANDI\Desktop\logTemp\Indexer\Indexer\obj\Debug\Indexer.pdb

@@ -1,0 +1,5 @@
+C:\Users\lijint.LANDI\Desktop\logTemp\IOWrite\IOWrite\bin\Debug\IOWrite.exe
+C:\Users\lijint.LANDI\Desktop\logTemp\IOWrite\IOWrite\bin\Debug\IOWrite.pdb
+C:\Users\lijint.LANDI\Desktop\logTemp\IOWrite\IOWrite\obj\Debug\IOWrite.csprojResolveAssemblyReference.cache
+C:\Users\lijint.LANDI\Desktop\logTemp\IOWrite\IOWrite\obj\Debug\IOWrite.exe
+C:\Users\lijint.LANDI\Desktop\logTemp\IOWrite\IOWrite\obj\Debug\IOWrite.pdb

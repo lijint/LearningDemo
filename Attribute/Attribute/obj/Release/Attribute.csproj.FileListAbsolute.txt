@@ -1,0 +1,5 @@
+C:\Users\lijint.LANDI\Desktop\logTemp\Attribute\Attribute\bin\Release\Attribute.exe
+C:\Users\lijint.LANDI\Desktop\logTemp\Attribute\Attribute\bin\Release\Attribute.pdb
+C:\Users\lijint.LANDI\Desktop\logTemp\Attribute\Attribute\obj\Release\Attribute.csprojResolveAssemblyReference.cache
+C:\Users\lijint.LANDI\Desktop\logTemp\Attribute\Attribute\obj\Release\Attribute.exe
+C:\Users\lijint.LANDI\Desktop\logTemp\Attribute\Attribute\obj\Release\Attribute.pdb

@@ -1,0 +1,4 @@
+C:\Users\lijint.LANDI\Desktop\logTemp\Generic\Generic\bin\Debug\Generic.exe
+C:\Users\lijint.LANDI\Desktop\logTemp\Generic\Generic\bin\Debug\Generic.pdb
+C:\Users\lijint.LANDI\Desktop\logTemp\Generic\Generic\obj\Debug\Generic.exe
+C:\Users\lijint.LANDI\Desktop\logTemp\Generic\Generic\obj\Debug\Generic.pdb

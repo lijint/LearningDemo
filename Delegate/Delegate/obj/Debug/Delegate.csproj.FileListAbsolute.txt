@@ -1,0 +1,5 @@
+C:\Users\lijint.LANDI\Desktop\logTemp\Delegate\Delegate\bin\Debug\Delegate.exe
+C:\Users\lijint.LANDI\Desktop\logTemp\Delegate\Delegate\bin\Debug\Delegate.pdb
+C:\Users\lijint.LANDI\Desktop\logTemp\Delegate\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+C:\Users\lijint.LANDI\Desktop\logTemp\Delegate\Delegate\obj\Debug\Delegate.exe
+C:\Users\lijint.LANDI\Desktop\logTemp\Delegate\Delegate\obj\Debug\Delegate.pdb

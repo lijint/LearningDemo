@@ -1,0 +1,5 @@
+C:\Users\lijint.LANDI\Desktop\logTemp\IORead\IORead\bin\Debug\IORead.exe
+C:\Users\lijint.LANDI\Desktop\logTemp\IORead\IORead\bin\Debug\IORead.pdb
+C:\Users\lijint.LANDI\Desktop\logTemp\IORead\IORead\obj\Debug\IORead.exe
+C:\Users\lijint.LANDI\Desktop\logTemp\IORead\IORead\obj\Debug\IORead.pdb
+C:\Users\lijint.LANDI\Desktop\logTemp\IORead\IORead\obj\Debug\IORead.csprojResolveAssemblyReference.cache
